@@ -2,9 +2,14 @@ package Exercize_N3;
 
 public class Matrix {
 
-    int[][] matrix = new int[this.row][this.col];
+    int[][] matrix;
     int col;
     int row;
+
+    public Matrix(int row, int col){
+
+        this.matrix = new int[this.row = row][this.col = col];
+    }
 
     public int[][] sumMatrix(int[][] otherMatrix) {
         int[][] result = new int[this.row][this.col];
