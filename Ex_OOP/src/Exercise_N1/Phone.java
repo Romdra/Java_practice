@@ -3,8 +3,8 @@ package Exercise_N1;
 public class Phone {
 
     private String number;
-    String model;
-    double weight;
+    private String model;
+    private double weight;
 
     public Phone() {}
     public Phone(String number, String model) {
@@ -38,4 +38,15 @@ public class Phone {
     }
 
     public String getNumber() { return this.number; }
+    public void setNumber(String number) {
+        this.number = number;
+    }
+    public String getModel() { return this.model; }
+    public void setModel(String model) {
+        this.model = model;
+    }
+    public double getWeight() { return this.weight; }
+    public void setWeight(double weight) {
+        this.weight = weight;
+    }
 }
