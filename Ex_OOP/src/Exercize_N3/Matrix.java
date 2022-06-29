@@ -2,7 +2,7 @@ package Exercize_N3;
 
 public class Matrix {
 
-    int[][] matrix;
+    int[][] matrix = new int[this.row][this.col];
     int col;
     int row;
 
