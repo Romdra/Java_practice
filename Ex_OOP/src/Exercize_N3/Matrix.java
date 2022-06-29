@@ -6,14 +6,14 @@ public class Matrix {
     int col;
     int row;
 
-    public Matrix(int row, int col){
 
-        this.matrix = new int[this.row = row][this.col = col];
+    public Matrix(int[][] matrix) {
+        this.matrix = matrix;
+        col = matrix[0].length;
+        row = matrix.length;
     }
-
     public int[][] sumMatrix(int[][] otherMatrix) {
         int[][] result = new int[this.row][this.col];
-
         if(result.length == this.matrix.length && result[0].length == this.matrix[0].length) {
             for (int i = 0; i < this.matrix.length; i++) {
                 for (int j = 0; j < this.matrix[i].length; j++) {
