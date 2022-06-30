@@ -1,0 +1,21 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É­¹f
+S	java:S106"9Replace this use of System.out or System.err by a logger.(óÏÁüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷Ìò
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤‚üÑ
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(÷Ìò8ŸŞô¢›0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ÓÈˆÔıÿÿÿÿ8 Şô¢›0
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(êØŒüÿÿÿÿ8š‡ü¢›0
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(èÔöÓøÿÿÿÿ8§èü¢›0
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(¤‚üÑ8¨èü¢›0
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(èÔöÓøÿÿÿÿ8¿œş¢›0
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ÓÈˆÔıÿÿÿÿ8Àœş¢›0
+<
+java:S1068"&Remove this unused "id" private field.(æ¨ç†
+F
+java:S1068	"+Remove this unused "faculty" private field.(ï•¤ùÿÿÿÿ
+B
+java:S1068
+",Remove this unused "birthday" private field.(€ô»Ò
+J
+java:S1068"/Remove this unused "phoneNumber" private field.(Ôá“ùÿÿÿÿ
