@@ -12,4 +12,10 @@ public class Lorry extends Car {
         super(model, carClass, weight, driver, engine);
         this.carrying = carrying;
     }
+
+    public void printString() {
+
+        super.printString();
+        System.out.printf("Грузоподъемность: %d", this.carrying);
+    }
 }

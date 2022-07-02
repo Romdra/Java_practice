@@ -12,4 +12,10 @@ public class SportCar extends Car {
         super(model, carClass, weight, driver, engine);
         this.speed = speed;
     }
+
+    public void printString() {
+
+        super.printString();
+        System.out.printf("Максимальная скорость: %f", this.speed);
+    }
 }

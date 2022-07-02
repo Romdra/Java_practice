@@ -1,10 +1,15 @@
 package Exercise_N6.com.company.professions;
 
-public class Driver {
+public class Driver extends Person {
 
-    private String fullName;
     private double experience;
 
-    public String getFullName() { return this.fullName; }
+    public Driver(String fullName, int age, double experience) {
+
+        super(fullName, age);
+        this.experience = experience;
+    }
+
+    public String getFullName() { return super.getFullName(); }
     public double getExperience() { return this.experience; }
 }
