@@ -20,4 +20,16 @@ public class Person {
 
         System.out.printf("Этот %s идёт", this.fullName);
     }
+
+    public String getFullName() {
+        return fullName;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
 }
