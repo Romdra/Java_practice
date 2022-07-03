@@ -13,9 +13,17 @@ public class Lorry extends Car {
         this.carrying = carrying;
     }
 
-    public void printString() {
+    public String toString() {
 
-        super.printString();
-        System.out.printf("Грузоподъемность: %d", this.carrying);
+        super.toString();
+        return " Грузоподъемность: " + this.carrying;
+    }
+
+    public int getCarrying() {
+        return carrying;
+    }
+
+    public void setCarrying(int carrying) {
+        this.carrying = carrying;
     }
 }

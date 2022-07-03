@@ -11,5 +11,15 @@ public class Person {
         this.age = age;
     }
 
-    public String getFullName() { return this.fullName; }
+    public int getAge() {
+        return age;
+    }
+
+    public String getFullName() {
+        return fullName;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
 }

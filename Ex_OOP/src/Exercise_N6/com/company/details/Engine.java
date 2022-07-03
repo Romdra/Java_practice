@@ -11,6 +11,12 @@ public class Engine {
         this.company = company;
     }
 
-    public String getPower() { return this.power; }
-    public String getCompany() { return this.company; }
+    public String getPower() {
+
+        return this.power;
+    }
+    public String getCompany() {
+
+        return this.company;
+    }
 }

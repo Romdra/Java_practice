@@ -13,9 +13,17 @@ public class SportCar extends Car {
         this.speed = speed;
     }
 
-    public void printString() {
+    public String toString() {
 
-        super.printString();
-        System.out.printf("Максимальная скорость: %f", this.speed);
+        super.toString();
+        return " Максимальная скорость: " + this.speed;
+    }
+
+    public double getSpeed() {
+        return speed;
+    }
+
+    public void setSpeed(double speed) {
+        this.speed = speed;
     }
 }

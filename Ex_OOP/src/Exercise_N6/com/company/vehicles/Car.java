@@ -36,10 +36,10 @@ public class Car {
 
         System.out.println("Поворот на лево");
     }
-    public void printString() {
+    public String toString() {
 
-        System.out.printf("Модель: %s Класс: %s Вес: %f Производитель: %s Мощность: %d\n Водитель: %s Стаж: %f\n",
-                this.model, this.carClass, this.weight, this.engine.getCompany(),
-                this.engine.getPower(), this.driver.getFullName(), this.driver.getExperience());
+        return "Модель: " + this.model + " Класс: " + this.carClass + " Вес: " + this.weight +
+                " Производитель: " + this.engine.getCompany() + " Мощность: " + this.engine.getPower() +
+                " Водитель: " + this.driver.getFullName() + " Стаж: " + this.driver.getExperience();
     }
 }

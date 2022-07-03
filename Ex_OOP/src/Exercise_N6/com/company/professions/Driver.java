@@ -10,6 +10,16 @@ public class Driver extends Person {
         this.experience = experience;
     }
 
-    public String getFullName() { return super.getFullName(); }
-    public double getExperience() { return this.experience; }
+    public String getFullName() {
+
+        return super.getFullName();
+    }
+    public double getExperience() {
+
+        return this.experience;
+    }
+
+    public void setExperience(double experience) {
+        this.experience = experience;
+    }
 }
