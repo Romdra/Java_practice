@@ -1,3 +1,35 @@
 
 A
 Java_practice.iml,6/c/6c11eaf358f0882f1b9b4f4afd1da5be4a049594
+U
+%Ex_OOP/src/Exercise_N6/Exercize.ru.md,f/3/f3dfb6e6e2d8eb080c4f6813d56862c0e9b5223d
+T
+$Ex_OOP/src/Exercise_N5/Aspirant.java,a/1/a1658e5f6961e15f23d097f172c47c16bfd48454
+i
+9Ex_OOP/src/Exercise_N6/com/company/vehicles/SportCar.java,7/3/731691109815fdcd45813198a1134fac200654cf
+f
+6Ex_OOP/src/Exercise_N6/com/company/vehicles/Lorry.java,3/9/3964601bf6ac305cc2eab9b5e41156eb0cca2c82
+j
+:Ex_OOP/src/Exercise_N6/com/company/professions/Person.java,0/2/02d2c7dc284cd0272ae02db4d64fb93388e164e5
+U
+%Ex_OOP/src/Exercise_N7/Exercise.ru.md,d/d/dd74be97418c48910ca966e6ee4d0b980b7f2c4a
+Q
+!Ex_OOP/src/Exercise_N7/Horse.java,0/7/0766a8d0b063af7370b487185a77fb5318cd1d14
+R
+"Ex_OOP/src/Exercise_N7/Animal.java,1/2/1262ea9be7c7582f4868eee3018df9a2484b6246
+O
+Ex_OOP/src/Exercise_N7/Cat.java,4/5/45acd02d708e27f7047e1dccde09750923cb6714
+O
+Ex_OOP/src/Exercise_N7/Dog.java,a/6/a67d0b63f21d503716cd468d14283ec6ea1ee5a1
+O
+Ex_OOP/src/Exercise_N7/Vet.java,8/1/81cdc02606b5f9268b80945e557c47986485ea15
+V
+&Ex_OOP/src/Exercize_N3/MatrixTest.java,b/6/b6cc95675351a8e7f673b6e0682182d02aa6123e
+S
+#Ex_OOP/src/Exercise_N7/Program.java,2/0/2089cc7684082cd2a5fd2583f03a7482b8c15b2c
+j
+:Ex_OOP/src/Exercise_N6/com/company/professions/Driver.java,0/3/03265a5badac18d62d520ed0fc5a57a34b2e6ace
+d
+4Ex_OOP/src/Exercise_N6/com/company/vehicles/Car.java,6/4/6428fa3f43ddbcdb46bbfc5472614dd6361c5555
+f
+6Ex_OOP/src/Exercise_N6/com/company/details/Engine.java,9/e/9ecc6b8649dcba7ee87005223dd8962513922895

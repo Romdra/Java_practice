@@ -37,16 +37,28 @@ public class Phone {
         }
     }
 
-    public String getNumber() { return this.number; }
+    public String getNumber() {
+
+        return this.number;
+    }
     public void setNumber(String number) {
+
         this.number = number;
     }
-    public String getModel() { return this.model; }
+    public String getModel() {
+
+        return this.model;
+    }
     public void setModel(String model) {
+
         this.model = model;
     }
-    public double getWeight() { return this.weight; }
+    public double getWeight() {
+
+        return this.weight;
+    }
     public void setWeight(double weight) {
+
         this.weight = weight;
     }
 }
