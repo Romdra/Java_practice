@@ -11,5 +11,11 @@ public class Book {
         this.genre = genre;
     }
 
-    public String getGenre() { return genre; }
+    public String getGenre() {
+        return genre;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
 }

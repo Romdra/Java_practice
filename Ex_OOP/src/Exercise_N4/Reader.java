@@ -39,6 +39,8 @@ public class Reader {
     }
 
     public void returnBook(int countBook) {
+
+
         System.out.printf("%s вернул %d книги", this.fullName, countBook);
     }
     public void returnBook(String...book) {
@@ -54,5 +56,29 @@ public class Reader {
         for (int i = 0; i < books.length; i++) {
             System.out.print(books[i].getGenre());
         }
+    }
+
+    public String getFullName() {
+        return fullName;
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    public String getFaculty() {
+        return faculty;
+    }
+
+    public String getBirthday() {
+        return birthday;
+    }
+
+    public String getPhoneNumber() {
+        return phoneNumber;
+    }
+
+    public void setPhoneNumber(String phoneNumber) {
+        this.phoneNumber = phoneNumber;
     }
 }
