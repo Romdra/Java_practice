@@ -20,7 +20,27 @@ public class Student {
         else System.out.println("Стипендия 80 рублей");
     }
 
-    public double getAverageMark() { return averageMark; }
+    public String getFirstName() {
+        return firstName;
+    }
 
-    public String getFirstName() { return firstName; }
+    public String getLastName() {
+        return lastName;
+    }
+
+    public String getGroup() {
+        return group;
+    }
+
+    public double getAverageMark() {
+        return averageMark;
+    }
+
+    public void setGroup(String group) {
+        this.group = group;
+    }
+
+    public void setAverageMark(double averageMark) {
+        this.averageMark = averageMark;
+    }
 }

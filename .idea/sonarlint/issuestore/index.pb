@@ -3,8 +3,6 @@ A
 Java_practice.iml,6/c/6c11eaf358f0882f1b9b4f4afd1da5be4a049594
 U
 %Ex_OOP/src/Exercise_N6/Exercize.ru.md,f/3/f3dfb6e6e2d8eb080c4f6813d56862c0e9b5223d
-T
-$Ex_OOP/src/Exercise_N5/Aspirant.java,a/1/a1658e5f6961e15f23d097f172c47c16bfd48454
 i
 9Ex_OOP/src/Exercise_N6/com/company/vehicles/SportCar.java,7/3/731691109815fdcd45813198a1134fac200654cf
 f
