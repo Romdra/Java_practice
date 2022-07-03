@@ -24,6 +24,19 @@ public class Animal {
         System.out.println("Животное спит.");
     }
 
-    public String getFood() { return this.food; }
-    public String getLocation() { return this.location; }
+    public String getFood() {
+        return food;
+    }
+
+    public void setFood(String food) {
+        this.food = food;
+    }
+
+    public String getLocation() {
+        return location;
+    }
+
+    public void setLocation(String location) {
+        this.location = location;
+    }
 }

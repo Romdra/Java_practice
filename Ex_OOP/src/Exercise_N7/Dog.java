@@ -18,4 +18,12 @@ public class Dog extends Animal {
 
         System.out.printf("Собака питается вот этим: %s.", super.getFood());
     }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
 }

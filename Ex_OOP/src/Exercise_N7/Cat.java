@@ -18,4 +18,12 @@ public class Cat extends Animal {
 
         System.out.printf("Кошка питается вот этим: %s.", super.getFood());
     }
+
+    public String getBreed() {
+        return breed;
+    }
+
+    public void setBreed(String breed) {
+        this.breed = breed;
+    }
 }

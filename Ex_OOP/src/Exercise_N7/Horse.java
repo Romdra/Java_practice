@@ -18,4 +18,12 @@ public class Horse extends Animal {
 
         System.out.printf("Лошадь питается вот этим: %s.", super.getFood());
     }
+
+    public int getSpeed() {
+        return speed;
+    }
+
+    public void setSpeed(int speed) {
+        this.speed = speed;
+    }
 }

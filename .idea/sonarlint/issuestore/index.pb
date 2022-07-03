@@ -5,17 +5,5 @@ U
 %Ex_OOP/src/Exercise_N6/Exercize.ru.md,f/3/f3dfb6e6e2d8eb080c4f6813d56862c0e9b5223d
 U
 %Ex_OOP/src/Exercise_N7/Exercise.ru.md,d/d/dd74be97418c48910ca966e6ee4d0b980b7f2c4a
-Q
-!Ex_OOP/src/Exercise_N7/Horse.java,0/7/0766a8d0b063af7370b487185a77fb5318cd1d14
-R
-"Ex_OOP/src/Exercise_N7/Animal.java,1/2/1262ea9be7c7582f4868eee3018df9a2484b6246
-O
-Ex_OOP/src/Exercise_N7/Cat.java,4/5/45acd02d708e27f7047e1dccde09750923cb6714
-O
-Ex_OOP/src/Exercise_N7/Dog.java,a/6/a67d0b63f21d503716cd468d14283ec6ea1ee5a1
-O
-Ex_OOP/src/Exercise_N7/Vet.java,8/1/81cdc02606b5f9268b80945e557c47986485ea15
 V
 &Ex_OOP/src/Exercize_N3/MatrixTest.java,b/6/b6cc95675351a8e7f673b6e0682182d02aa6123e
-S
-#Ex_OOP/src/Exercise_N7/Program.java,2/0/2089cc7684082cd2a5fd2583f03a7482b8c15b2c

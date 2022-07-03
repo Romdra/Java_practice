@@ -14,4 +14,8 @@ public class Vet {
         System.out.printf("Животное питается этой пищей: %s\nНаходится в этом месте: %s\n\n",
                 animal.getFood(), animal.getLocation());
     }
+
+    public String getName() {
+        return name;
+    }
 }
