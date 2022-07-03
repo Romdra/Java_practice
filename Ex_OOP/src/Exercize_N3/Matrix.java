@@ -2,15 +2,15 @@ package Exercize_N3;
 
 public class Matrix {
 
-    int[][] matrix;
-    int col;
-    int row;
+    private int[][] matrix;
+    private int col;
+    private int row;
 
 
     public Matrix(int[][] matrix) {
         this.matrix = matrix;
-        col = matrix[0].length;
-        row = matrix.length;
+        this.col = matrix[0].length;
+        this.row = matrix.length;
     }
     public int[][] sumMatrix(int[][] otherMatrix) {
         int[][] result = new int[this.row][this.col];
@@ -60,5 +60,9 @@ public class Matrix {
             System.out.println("Матрицы не согласованы");
         }
         return result;
+    }
+
+    public int[][] getMatrix() {
+        return matrix;
     }
 }
