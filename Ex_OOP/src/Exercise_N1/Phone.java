@@ -5,19 +5,26 @@ public class Phone {
     private String number;
     private String model;
     private double weight;
+    private static int phoneCounter = 0;
 
-    public Phone() {}
+    public Phone() {
+        phoneCounter++;
+    }
+
     public Phone(String number, String model) {
 
+        this();
         this.number = number;
         this.model = model;
     }
     public Phone(String number, String model, double weight) {
 
+        this();
         this.number = number;
         this.model = model;
         this.weight = weight;
     }
+
 
     public void receiveCall(String name) {
 
@@ -60,5 +67,10 @@ public class Phone {
     public void setWeight(double weight) {
 
         this.weight = weight;
+    }
+
+    public static int getPhoneCounter() {
+
+        return phoneCounter;
     }
 }

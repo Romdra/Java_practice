@@ -17,5 +17,7 @@ public class Program {
 
         phone1.receiveCall("Валентин", "+79683456769");
         phone1.sendMessage("+790270601123", "+790270601123", "+790270601123", "+790270601123");
+
+        System.out.printf("Количество телефонов: %d", Phone.getPhoneCounter());
     }
 }
